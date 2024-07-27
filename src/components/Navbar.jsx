@@ -30,7 +30,7 @@ export const Navbar = () => {
 
      
 
-        <button onClick={toggleMenu} className="text-cyan-400 lg:hidden pt-2 ">
+        <button onClick={toggleMenu} className="text-cyan-400 lg:hidden ">
           {isOpen ? <MdCancel size={30} /> : <GiHamburgerMenu size={30} />}
         </button>
 
