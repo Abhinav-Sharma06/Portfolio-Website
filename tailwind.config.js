@@ -36,6 +36,10 @@ module.exports = {
         900: "#001B22",
       },
     },
+    screens: {
+        'xs': '375px',  // custom breakpoint for 375px
+        'sm': '425px',  // custom breakpoint for 420px
+      },
   },
     
     fontFamily: {
