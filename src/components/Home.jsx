@@ -12,7 +12,7 @@ export const Home = () => {
   return (
     <div id='Home' className='mb-14 lg:mb-8 mx-auto xl:w-[75%] '>
     <div className='flex flex-col-reverse lg:flex-row flex-wrap items-center justify-around leading-tight  xl:justify-between pl-2 '>
-    <div className='text-white text-center lg:text-start w-[94%]  xs:w-[87%] sm:w-[77%] md:w-[80%] mx-auto lg:mx-0 lg:w-[47%] xl:w-[51%] text-[2rem] lg:text-[3.5rem] self-start pt-10'>
+    <div className='text-white text-center lg:text-start w-[92%]  xs:w-[87%] sm:w-[77%] md:w-[80%] mx-auto lg:mx-0 lg:w-[47%] xl:w-[51%] text-[2rem] lg:text-[3.5rem] self-start pt-10'>
       Hi👋I am a <span className='text-cyan-400 font-medium'>Abhinav</span> and I am a passionate <TypeAnimation
        preRenderFirstString={true}
       sequence={[
