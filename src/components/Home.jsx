@@ -1,7 +1,7 @@
 import React from 'react'
 import myPic from '../assets/MyPic 4.png'
 import { TypeAnimation } from 'react-type-animation';
-import resume from '../assets/Abhinavs_CV.pdf';
+import resume from '../assets/Abhinav_Resume.pdf';
 import { FaPhone } from "react-icons/fa6";
 import { IoIosMail } from "react-icons/io";
 import { IoLogoLinkedin } from "react-icons/io";

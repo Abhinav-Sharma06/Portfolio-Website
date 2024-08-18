@@ -69,7 +69,7 @@ export const projectData = [
         desc:'This portfolio website, built with React.js, JavaScript, and Tailwind CSS, offers a responsive design showcasing my skills, experience, projects, and coding profiles. Git is used for version control, reflecting my professional journey and expertise. ',
         
     
-        link:'https://portfolio-abhinav.vercel.app/',
+        link:'https://portfolio-website-abhinav-sharma.vercel.app/',
         
         techStack:['JavaScript','Responsive Design',' React.js', 'Tailwind CSS', 'Git'],
     },
